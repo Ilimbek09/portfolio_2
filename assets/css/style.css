@@ -4,3 +4,11 @@ body{
     color: yellow;
     background: purple;
 }
+
+h1{
+    background: #000;
+    color: aliceblue;
+    margin: 0 auto;
+    padding: 46px;
+
+}
